@@ -17,6 +17,9 @@ examples/*/x64/*
 *bin
 *bin-int
 
+# Makefile generator clutter
+Makefile
+
 ## Visual Studio artifacts
 .vs
 ipch
